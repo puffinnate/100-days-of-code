@@ -7,14 +7,15 @@
 
 **Thoughts:** I'm committed and even thought I have basic knowledge about front-end and back-end development, I'm rusty so I may need to start over.
 
-**Hours Spent:** 2 hours.
+**Hours Spent:** 2
 
 **Link to work:** [Free Code Camp](http://www.freecodecamp.com/map)
 
 ### Day 1: June 23, 2017
 
-**Today's Progress**: I had family stuff to deal with so this is the day I could start properly. Today I've come to the 78th challenge of the FCC map from 23.
+**Today's Progress**: I had family stuff to deal with so this is the day I could start properly. 
+                      Today I've come to the 78th challenge of the FCC
 
-**Thoughts:** I shoul try harder not to skip any day without coding. This habit is a bit hard to gain.  
+**Thoughts:** I should try harder not to skip any day without coding. This habit is a bit hard to gain.  
 
 **Hours Spent:** 2.30
