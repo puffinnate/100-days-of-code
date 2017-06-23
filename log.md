@@ -13,8 +13,8 @@
 
 ### Day 1: June 23, 2017
 
-**Today's Progress**: I had family stuff to deal with so this is the day I could start properly. I'll continue the FCC map from 23.
+**Today's Progress**: I had family stuff to deal with so this is the day I could start properly. Today I've come to the 78th challenge of the FCC map from 23.
 
 **Thoughts:** I shoul try harder not to skip any day without coding. This habit is a bit hard to gain.  
 
-**Hours Spent:**
+**Hours Spent:** 2.30
