@@ -14,8 +14,16 @@
 ### Day 1: June 23, 2017
 
 **Today's Progress**: I had family stuff to deal with so this is the day I could start properly. 
-                      Today I've come to the 78th challenge of the FCC
+                      Today I've come to the 89th challenge of the FCC
 
 **Thoughts:** I should try harder not to skip any day without coding. This habit is a bit hard to gain.  
 
 **Hours Spent:** 2.30
+
+### Day 1: July 1, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** Back to day 1. Unfortunately my granpa is very sick so whole week I had to be beside him and my mom. So starting over this challenge, and will try my best these days.  
+
+**Hours Spent:**
