@@ -18,12 +18,12 @@
 
 **Thoughts:** I should try harder not to skip any day without coding. This habit is a bit hard to gain.  
 
-**Hours Spent:** 2.30
+**Hours Spent:** 2,5
 
 ### Day 1: July 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: I've come to basic front-end projects, challenge 118. 
 
 **Thoughts:** Back to day 1. Unfortunately my granpa is very sick so whole week I had to be beside him and my mom. So starting over this challenge, and will try my best these days.  
 
-**Hours Spent:**
+**Hours Spent:** 2,5
